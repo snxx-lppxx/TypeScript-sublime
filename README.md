@@ -1,5 +1,5 @@
 # TypeScript-sublime
-![Header](./doc/img/logo.png)
+[![Header][logo]](https://github.com/snxx-lppxx/TypeScript-sublime)
 How to install this packages?
 ---
 Open the [Help.md][1]
@@ -13,4 +13,5 @@ How to use Git?
 	$ git fetch upstream
 ```
 
+[logo]: https://github.com/snxx-lppxx/TypeScript-sublime/blob/master/doc/img/logo.png
 [1]: ./doc/HELP.md
